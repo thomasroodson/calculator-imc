@@ -11,7 +11,7 @@
 - [x] React JS
 
 ### Projeto
-
+[Deploy](https://thomasroodson.github.io/calculator-imc/)
 ![Thomas Roodson](https://i.ibb.co/wMZmWKQ/print-IMC.jpg)
 
 ### Instalação
